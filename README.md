@@ -28,7 +28,27 @@ The analysis of the election shows that:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+The election commission has requested some additional data to complete the audit:
+
+- Calculate the voter turnout for each county
+- Calculate the percentage of votes from each county out of the total count
+- Determine the county with the highest turnout
 
 ## Challenge Summary
 
+- The analysis shows that the counties were:
+ * Jefferson
+ * Denver
+ * Arapahoe
  
+- The county results were:
+ * Jefferson contributed 10.5% of the vote and 38,855 votes
+ * Denver contributed 82.8% of the vote and 306,055 votes
+ * Arapahoe contributed 6.7% of the vote and 24,801 votes
+ 
+- The largest county was:
+ * Denver: Contributed 82.8% of the vote and 306,055 votes
+ 
+This script can be used with some modifications—for any election. For example:
+ * We can alter the code to determine the county with the lowest turnout.
+ * We can alter the code to further analyze more counties in Colorado or even all states in the United States.
